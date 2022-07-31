@@ -34,6 +34,8 @@ Using cat and dog dataset to train a convolutional neural network model and achi
 
 Data set from a competition on kaggle：[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)，The training set has 25,000 sheets, split 50/50 between dogs and cats. The test set of 12,500 sheets is not labelled as cat or dog.
 
+The data set also load in Google Drive and here is link：https://drive.google.com/drive/folders/1vGuxsNUe_HV5r_Oadm9DepYKjb53pGSp
+
 ## Managing virtual environments
 
 Next we can use anaconda to create our individual python environments. The examples below are all done from the command line, so open command line.
