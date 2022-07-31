@@ -22,7 +22,7 @@ Table of Contents
 
 ## Basic Overview
 
-![20.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/20.png)
+![20.png](https://github.com/JunkeXu/111/blob/main/figure/20.png)
 
 Using cat and dog dataset to train a convolutional neural network model and achieve an accuracy of over 90% for cat and dog recognition
 
@@ -44,7 +44,7 @@ Open the cmd command terminal and create a virtual environment.
 
 conda create -n tf1 python=3.6
 
-![1.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/1.png)
+![1.jpg](https://github.com/JunkeXu/111/blob/main/figure/1.png)
 
 
 ### Activating the environment
@@ -53,7 +53,7 @@ activate
 
 conda activate tf1
 
-![2.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/2.png)
+![2.png](https://github.com/JunkeXu/111/blob/main/figure/2.png)
 
 
 ## Packages
@@ -62,58 +62,58 @@ In the newly created virtual environment tf1, install libraries using the follow
 
 pip install tensorflow==1.14.0
 
-![3.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/3.png)
+![3.png](https://github.com/JunkeXu/111/blob/main/figure/3.png)
 
 
 pip install keras==2.2.5
 
-![4.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/4.png)
+![4.png](https://github.com/JunkeXu/111/blob/main/figure/4.png)
 
 pip install numpy==1.16.4
 
-![6.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/6.png)
+![6.png](https://github.com/JunkeXu/111/blob/main/figure/6.png)
 
 conda install nb_conda_kernels
 
-![5.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/5.png)
+![5.png](https://github.com/JunkeXu/111/blob/main/figure/5.png)
 
 pip install pillow
 
-![7.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/7.png)
+![7.png](https://github.com/JunkeXu/111/blob/main/figure/7.png)
 
 pip install matplotlib
 
-![8.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/8.png)
+![8.png](https://github.com/JunkeXu/111/blob/main/figure/8.png)
 
 pip install pandas
 
-![22.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/22.png)
+![22.png](https://github.com/JunkeXu/111/blob/main/figure/22.png)
 
 ## Open the Jupyter Notebook (tf1) environment
 
-![9.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/9.png)
+![9.png](https://github.com/JunkeXu/111/blob/main/figure/9.png)
 
 Click [New] → [Python [in tf1 environment]] to create the python file.
 
-![10.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/10.png)
+![10.png](https://github.com/JunkeXu/111/blob/main/figure/10.png)
 
 ## Dog and cat data classification modelling
 
 Once the dataset has been downloaded, unzip it as follows.
 
-![11.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/11.png)
+![11.png](https://github.com/JunkeXu/111/blob/main/figure/11.png)
 
 The code for classifying images of dogs and cats is as follows:
 
-![19.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/19.png)
+![19.png](https://github.com/JunkeXu/111/blob/main/figure/19.png)
 
 The classification of the dog and cat images is shown in the following figure.
 
-![12.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/12.png)
+![12.png](https://github.com/JunkeXu/111/blob/main/figure/12.png)
 
-![13.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/13.png)
+![13.png](https://github.com/JunkeXu/111/blob/main/figure/13.png)
 
-![14.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/14.png)
+![14.png](https://github.com/JunkeXu/111/blob/main/figure/14.png)
 
 ## Summary of Analysis
 
@@ -121,29 +121,29 @@ When comparing the baseline model, it is clear that the overall trend in loss is
 
 ## Conclusion
 
-![15.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/15.jpg)
+![15.png](https://github.com/JunkeXu/111/blob/main/figure/15.jpg)
 
 The trained model is not very accurate and there is an increasing trend of loss, which may lead to overfitting.
 
-![16.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/16.png)
+![16.png](https://github.com/JunkeXu/111/blob/main/figure/16.png)
 
 The overall trend in loss is to become smaller, with Volatility on the high side during training.
 
-![17.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/17.png)
+![17.png](https://github.com/JunkeXu/111/blob/main/figure/17.png)
 
 The overall trend in loss is to become smaller，Volatility has also been reduced, but accuracy is low.
 
-![18.png](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/18.png)
+![18.png](https://github.com/JunkeXu/111/blob/main/figure/18.png)
 
 The training was perfect, but with the help of the VGG19 model.
 
-![21.jpg](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/21.jpg)
+![21.jpg](https://github.com/JunkeXu/111/blob/main/figure/21.jpg)
 
 The training was perfect and was generated by parameter tuning on the VGG19 model.
 
 ## Results
 
-The result can be seen in [project.csv](https://github.com/ACM40960/project-JunkeXu/blob/main/project.csv).
+The result can be seen in [project.csv](https://github.com/JunkeXu/111/blob/main/project.csv).
 
 ## Run time
 
