@@ -36,6 +36,8 @@ Data set from a competition on kaggle：[Dogs vs. Cats](https://www.kaggle.com/c
 
 The data set also load in Google Drive and here is link：https://drive.google.com/drive/folders/1vGuxsNUe_HV5r_Oadm9DepYKjb53pGSp
 
+![25.jpg](https://github.com/ACM40960/project-JunkeXu/tree/main/readme_figure/25.jpg)
+
 ## Managing virtual environments
 
 Next we can use anaconda to create our individual python environments. The examples below are all done from the command line, so open command line.
