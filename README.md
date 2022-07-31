@@ -39,9 +39,9 @@ Data set from a competition on kaggle：[Dogs vs. Cats](https://www.kaggle.com/c
 
 The data set also load in Google Drive and here is link：https://drive.google.com/drive/folders/1vGuxsNUe_HV5r_Oadm9DepYKjb53pGSp
 
-We can see that the first two test and train are our original datasets. train1 is the dataset I extracted to do this exercise. The next four h5 files are the trained models, and the final project.csv is the file that finally classifies the images in the test file.
-
 ![25.jpg](https://github.com/JunkeXu/111/blob/main/figure/25.jpg)
+
+We can see that the first two test and train are our original datasets. train1 is the dataset I extracted to do this exercise. The next four h5 files are the trained models, and the final project.csv is the file that finally classifies the images in the test file.
 
 ## Managing virtual environments
 
